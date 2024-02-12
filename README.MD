@@ -1,9 +1,10 @@
 ### Dependencies Setup:
-Run in terminal
+run in terminal
 ```
   npm install
 ```
 ### Code Execution:
+run in terminal
 ```
   npm test
 ```
